@@ -1,0 +1,6 @@
+[submodule "M324_GitSubmoduleExample1"]
+	path = M324_GitSubmoduleExample1
+	url = https://github.com/Erjon207/M324_GitSubmoduleExample1.git
+[submodule "M324_GitSubmoduleExample2"]
+	path = M324_GitSubmoduleExample2
+	url = https://github.com/Erjon207/M324_GitSubmoduleExample2.git
